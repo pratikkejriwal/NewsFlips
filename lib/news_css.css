@@ -1,0 +1,20 @@
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.carousel-item {
+    height: 300px;
+    min-height: 300px;
+
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
