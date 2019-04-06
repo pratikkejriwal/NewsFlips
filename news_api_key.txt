@@ -1,3 +1,2 @@
 NewsAPI Key:
-
-10537835e6f949508a927f0a6df56ed3
+<get your own newsAPI key>
